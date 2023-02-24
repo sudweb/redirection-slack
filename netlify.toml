@@ -1,0 +1,10 @@
+[[redirects]]
+  status = 302
+  from = "/"
+  # Invite link expires after 400 joined users
+  # and must be recreated through https://sudweb.slack.com/admin/invites
+  to = "https://join.slack.com/t/sudweb/shared_invite/zt-1psg68bpy-2XWHOpW2BQYNoJe_yC5A3g"
+
+# https://sudweb.slack.com/admin
+# https://sudweb.slack.com/admin/invites
+# https://sudweb.slack.com/admin/shared_invites
